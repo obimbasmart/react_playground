@@ -1,4 +1,11 @@
 # Travel Journal
+
+<div align="center">
+
+<img src="./tvl-journal.png" width="410">
+ </div>
+
+
 This small react project provided opportunity to learn basic react concepts which include:
 
 - Custom components
@@ -10,10 +17,6 @@ This small react project provided opportunity to learn basic react concepts whic
 - Dynamically render components from external data
 
 
-<div align="center">
-
-<img src="./tvl-journal.png">
- </div>
 
 ## File structure
 ```
