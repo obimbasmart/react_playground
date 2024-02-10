@@ -1,0 +1,23 @@
+.app {
+  background: #111315;
+  color: #FEF7EE;
+
+  width: 100%;
+  min-height: 100vh;
+  overflow-y: hidden;
+
+  /* text-align: center; */
+}
+
+.coffee--container {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+
+  max-width: 1280px;
+  /* align-items: center; */
+  margin: 0 auto;
+  margin-top: 1.2rem;
+}

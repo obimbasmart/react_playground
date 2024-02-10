@@ -1,0 +1,44 @@
+.header {
+    padding: 1.5rem;
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+.header h1 {
+    margin-top: 4rem;
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+.header p {
+    font-size: 16px;
+    color: #969ba0;
+    margin-top: 5px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header--filters {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.header--filters button {
+    padding: 8px 12px;
+    color: #FEF7EE;
+    background-color: #6F757C;
+    border-radius: 7px;
+    border: none;
+}
+
+#available--product,
+#all--product {
+    cursor: pointer;
+}
+
+#available--product {
+    background-color: #1d1e21;
+}

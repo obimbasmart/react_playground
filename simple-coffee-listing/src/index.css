@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px solid white; */
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
